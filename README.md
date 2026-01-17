@@ -24,7 +24,7 @@ This repository contains our group's solution for the closed Kaggle competition 
 ## Proposed Solution
 <img src="proposed-solution.jpg" alt="Proposed Solution" width="600" />
 
-## Contributors 👥
+## Contributors:
 
 | Name                        | GitHub Profile                                   | Contact                                       |
 |-----------------------------|--------------------------------------------------|-----------------------------------------------|
